@@ -10,4 +10,3 @@ Pulsa en cualquier APK para descargarla desde tu Fire Stick:
 - [1111 VPN](cloudflare.apk)
 - [fctv77.tv Deportes](com.fctv77.tv-release-310-v3.0.310.apk)
 - [fctv77.tv Deportes nuevo](FCTV33(TV).apk)
-- [Ace stream 3.2.19.7](AceStreamEK-32bits_v3.apk)
