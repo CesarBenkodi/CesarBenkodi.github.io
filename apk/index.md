@@ -9,3 +9,4 @@ Pulsa en cualquier APK para descargarla desde tu Fire Stick:
 - [Chrome problemas Webview](https://www.apkmirror.com/apk/google-inc/chrome/chrome-96-0-4664-92-release/google-chrome-fast-secure-96-0-4664-92-3-android-apk-download/)
 - [1111 VPN](cloudflare.apk)
 - [fctv77.tv Deportes](com.fctv77.tv-release-310-v3.0.310.apk)
+- [Ace stream 3.2.19.7](https://mega.nz/file/wpxQVRrb#a1B1me0ejxlAjd5D5elT3FyLTPZB1AHQ9I9HI8lo_Kw)
