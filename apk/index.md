@@ -8,5 +8,6 @@ Pulsa en cualquier APK para descargarla desde tu Fire Stick:
 - [Kodi 21.3](https://kodi.tv/download/thanks/android?url=https%3A%2F%2Fmirrors.kodi.tv%2Freleases%2Fandroid%2Farm%2Fkodi-21.3-Omega-armeabi-v7a.apk%3Fhttps%3D1)
 - [Chrome problemas Webview](https://www.apkmirror.com/apk/google-inc/chrome/chrome-96-0-4664-92-release/google-chrome-fast-secure-96-0-4664-92-3-android-apk-download/)
 - [1111 VPN](cloudflare.apk)
-- [fctv77.tv Deportes](com.fctv77.tv-release-310-v3.0.310.apk)
+- [fctv77.tv Deportes 3.0.310](com.fctv77.tv-release-310-v3.0.310.apk)
+- [fctv77.tv Deportes 3.0.320](FCTV33(TV).apk)
 - [Ace stream 3.2.19.7](https://www.dropbox.com/scl/fi/wwexu5gskn37uya89rc26/AceStreamEK-32bits_v3.apk?rlkey=ybmoassb0j46oxgfjm629z4wp&st=ynha0n2d&dl=1)
