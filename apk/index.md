@@ -14,4 +14,4 @@ Pulsa en cualquier APK para descargarla desde tu Fire Stick:
 - [Wire Guard 1.0.20260315](https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk))
 - [fctv77.tv Deportes 3.0.323 APK](com.fctv77.app-release-323-v3.0.323.apk)
 - [fctv77.tv Deportes 3.0.323 TV](com.fctv77.tv-release-323-v3.0.323.apk)
-- [VegetaTV 10.6](https://www.dropbox.com/scl/fi/v0bcxhfktc60e5encjr2s/VegetaTV_v10.6.apk?rlkey=7tkgo0lprvgrypcrf7rd2lsnd&dl=0)
+- [VegetaTV 10.6](https://www.dropbox.com/scl/fi/v0bcxhfktc60e5encjr2s/VegetaTV_v10.6.apk?rlkey=7tkgo0lprvgrypcrf7rd2lsnd&dl=1)
